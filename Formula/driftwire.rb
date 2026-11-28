@@ -6,9 +6,9 @@
 class Driftwire < Formula
   desc "Send files to a computer nearby, or anywhere with a code, from a terminal"
   homepage "https://github.com/longtimeno-c/mediaviewer"
-  url "https://github.com/longtimeno-c/mediaviewer/releases/download/v0.1.46/driftwire-0.1.46-macos-universal.tar.gz"
-  version "0.1.46"
-  sha256 "414246d3fbfaf69a6e98a023ad85fe6746d8b60b0ba504837641f662bf0641ed"
+  url "https://github.com/longtimeno-c/mediaviewer/releases/download/v0.1.47/driftwire-0.1.47-macos-universal.tar.gz"
+  version "0.1.47"
+  sha256 "49848049c3b9680cdbad7b1ce4522620505deaca96cb0cff5a8a24cb5e1479bc"
   license "GPL-3.0-or-later"
 
   depends_on macos: :sonoma
